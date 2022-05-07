@@ -3,7 +3,7 @@
   -👩🏾‍💻 Fullstack Web Development - Labenu </br>
   -🎓 Archtecture - UFBA/ Specialist in BIM (Building Information Modeling) </br>
   -📧 contact: laismedrado@live.com </br>
-  -😄 Pronouns: ela/dela 
+  -🧙🏾‍♀️Pronouns: ela/dela 
 
 </br>
 </br>
