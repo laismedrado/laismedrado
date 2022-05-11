@@ -1,9 +1,9 @@
 <h2>Hello! My name is Laís Medrado</h2>
   -📍 Salvador-BA </br>
   -👩🏾‍💻 Fullstack Web Development - Labenu </br>
-  -🎓 Archtecture - UFBA/ Specialist in BIM (Building Information Modeling) </br>
+  -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) </br>
   -📧 contact: laismedrado@live.com </br>
-  -🧙🏾‍♀️Pronouns: ela/dela 
+ 
 
 </br>
 </br>
