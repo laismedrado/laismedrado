@@ -1,5 +1,6 @@
 <h2>Hello! My name is Laís Medrado</h2>
   -📍 Salvador-BA </br>
+  -👩🏾‍💻 Currently -  Backend Web development in Kegsoftware 
   -👩🏾‍💻 Fullstack Web Development - Labenu </br>
   -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) </br>
   -📧 contact: laismedrado@live.com </br>
