@@ -1,6 +1,7 @@
 <h2>Hello! My name is Laís Medrado</h2>
   -📍 Salvador-BA </br>
-  -👩🏾‍💻 Future Devops Cloud
+  -👩🏾‍💻 Future Devops Cloud 
+  
   -👩🏾‍💻 Fullstack Web Development - Labenu </br>
   -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) - IPOG </br>
   -📧 contact: laismedrado@live.com </br>
