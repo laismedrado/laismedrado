@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://user-images.githubusercontent.com/31759644/167239401-344684c9-aaf4-4b9a-9a2e-6b1755fd9399.png">
-  <img align="center" alt="Rafa-CSS" height="40" width="65" src="https://user-images.githubusercontent.com/31759644/167239512-2b97e41b-67c9-4702-9a8d-0d44c744e789.png">
+  
   </br>
 </br>
 
