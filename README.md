@@ -2,7 +2,7 @@
   -📍 Salvador-BA </br>
   -👩🏾‍💻 QA / cloud automation 
   
-  -👩🏾‍💻 Fullstack Web Development - Labenu </br>
+  -🎓 Fullstack Web Development - Labenu </br>
   -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) - IPOG </br>
   -📧 contact: laismedrado@live.com </br>
  
