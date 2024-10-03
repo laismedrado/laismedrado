@@ -1,6 +1,6 @@
 <h2>Hello! My name is Laís Medrado</h2>
   -📍 Salvador-BA </br>
-  -👩🏾‍💻 QA engineer/ tester - apaixonada que faz e pró- ativa pra contribuir com a empresa na qualidade do processo e do produto; 
+  -👩🏾‍💻 QA engineer/ tester - apaixonada que faço e pró - ativa pra contribuir com a empresa na qualidade do processo e do produto; 
   
   -🎓 Fullstack Web Development - Labenu </br>
   -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) - IPOG </br>
