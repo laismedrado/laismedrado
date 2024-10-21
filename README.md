@@ -1,7 +1,7 @@
 <h2> 🧞‍♀️ Hello! My name is Laís Medrado 
  </h2>  
   -📍 Salvador-BA </br>
-  -👩🏾‍💻 QA engineer/ teste </br>
+  -👩🏾‍💻 QA engineer/ tester </br>
   -🎓 Fullstack Web Development - Labenu </br>
   -🎓 Architecture - UFBA/ BIM Specialist  (Building Information Modeling) - IPOG </br>
   -📧 contact: laismedrado@live.com </br>
